@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #eedfe9;
+
+
+}
+.first{
+    height: 60px;
+    font-family: kaisei Tokumin;
+    font-size: x-large;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
+#bold{
+    height: 100px;
+    font-family:kaisei Tokumin;
+    font-size: xxx-large;
+    font-weight: 700;
+    position: relative;
+    top: 90px;
+    left: 38%;
+    display: inline-block;
+}
+.three{
+    background-image: url("three.png");
+    position: relative;
+    top: 78px;
+    left: 565px;
+    height: 50px;
+    width: 55px;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+.go{
+    width: 100%;
+    height: 60px;
+    font-family:kaisei Tokumin;
+    font-size: xx-large;
+    font-weight: 500;
+    color: #000000;
+    position: relative;
+    top: 60px;
+    left: 40%;
+}
+.figma{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-image: url("figma.png");
+    background-size: cover;
+    position: relative;
+    top: 79px;
+    left: 31%;
+}
+.aws{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-image: url("aws.png");
+    background-size: cover;
+    position: relative;
+    top: 40px;
+    left: 30%;
+}
+.roll{
+    background-image: url("roll.png");
+    background-size: cover;
+    display: inline-block;
+    width: 115px;
+    height: 100px;
+    position: relative;
+    bottom: 80px;
+    left: 200px;
+}
+.img3{
+    background-image: url("image3.png");
+    background-size: cover;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 75px;
+    left: 450px;
+}
+.seo{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-image: url("seo.png");
+    background-size: cover;
+    position: relative;
+    top: 50px;
+    left: 30%;
+}
+.nft{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-image: url("nft.png");
+    background-size: cover;
+    position: relative;
+    top: 75px;
+    left: 32%;
+}
+.gpt{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-image: url("gpt.png");
+    background-size: cover;
+    position: relative;
+    top: 50px;
+    left: 33%;
+}
+.grp1{
+    background-image:url("group1.png");
+    background-size: cover;
+    height: 120px;
+    width: 185px;
+    display: inline-block;
+    position: relative;
+    top: 70px;
+    right: 450px;
+}
+.grp1s{
+    background-image:url("group1.png");
+    background-size: cover;
+    height: 120px;
+    width: 185px;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    left: 550px;
+    transform: rotate(-18deg);
+}
+.circle{
+    display: inline-block;
+    width: 60px;
+    height: 65px;
+    background-image: url("circle.png");
+    background-size: cover;
+    position: relative;
+    bottom: 200px;
+    left: 400px;
+}
+#main{
+    height: 500px;
+    width: 700px;
+    display: inline-block;
+    background-image: url("frame.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 80px;
+    left: 430px;
+}
+.block{
+    display: inline-block;
+    width: 220px;
+    height: 150px;
+    background-image: url("blockimg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom: 170px;
+    right: 510px;
+}
+.google{
+    display: inline-block;
+    width: 220px;
+    height: 150px;
+    background-image: url("googleimg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom: 170px;
+    left: 230px;
+}
+.ux{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-image: url("uximg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 50px;
+    right: 1000px;
+}
+.social{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-image: url("mediaimg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    bottom: 150px;
+    left: 75%;
+}
